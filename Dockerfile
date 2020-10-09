@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/example-guestbook-php-redis:v3
+FROM gcr.io/google_containers/etcd-amd64:3.1.10
 
